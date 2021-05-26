@@ -1,0 +1,19 @@
+#switch-btn {
+    font-size: 44px;
+    width: 200px;
+    height: 120px;
+    border: 1px solid #343a40;
+    outline: none;
+}
+
+#switch-btn:focus {
+    box-shadow: none;
+}
+
+@media (max-width: 767px) {
+    #switch-btn {
+        font-size: 35px;
+        width: 160px;
+        height: 80px;
+    }
+}
