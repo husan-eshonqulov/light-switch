@@ -1,1 +1,1 @@
-# Shunchaki mini ## Chiroq
+# Shunchaki chiroqni o'chirib yoqgich
